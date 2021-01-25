@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223264126518",
+    "project_id": "kboy-80817",
+    "storage_bucket": "kboy-80817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223264126518:android:9a78c323a8544c698a4a97",
+        "android_client_info": {
+          "package_name": "com.firebase_book_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223264126518-h37cg0eis43elr8kkqc5qffk6p051d8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8-m3kqmaEw7XOAyIEYbVkQj0q87h4og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223264126518-h37cg0eis43elr8kkqc5qffk6p051d8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
